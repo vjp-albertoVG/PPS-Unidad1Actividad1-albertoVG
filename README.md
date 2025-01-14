@@ -91,6 +91,7 @@ Estos son algunas de las extensiones que tengo instaladas en el Visual Studio Co
 ![](Imagenes/Imagen9)
 ![](Imagenes/Imagen10)
 ![](Imagenes/Imagen11)
+![](Imagenes/Imagen12)
 
 
 ## Prueba entornos
