@@ -84,6 +84,14 @@ __Las siguientes operaciones las puedes hacer desde el entorno Eclipse que hemos
 >__ Busca y escribe para qué sirven estos plugins: Checkstyle, Sonar Lint.__
 >__Instala los plugins y complementos que has encontrado. Además busca e instala los plugins Checkstyle y Sonar Lint.__
 
+Estos son algunas de las extensiones que tengo instaladas en el Visual Studio Code
+![](Imagenes/Imagen6)
+![](Imagenes/Imagen7)
+![](Imagenes/Imagen8)
+![](Imagenes/Imagen9)
+![](Imagenes/Imagen10)
+![](Imagenes/Imagen11)
+
 
 ## Prueba entornos
 
