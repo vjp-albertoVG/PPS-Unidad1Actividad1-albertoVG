@@ -100,6 +100,12 @@ El entorno de desarrollo nos sirve para crear nuestras aplicaciones y además po
 >__Descarga el código fuente de un proyecto java o python: compila, enlaza y ejecutaló. Tienes algunos ejemplos en la carpeta Sources de este repositorio__
 >__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
 
+Aqui podemos ver algunas cosas que se pueden mejorar dentro de nuestro decumanto Calculadora.py 
+Las cosas subralladas en amarillo son cosas que se pueden suprimir.
+![](Imagenes/Imagen13.png)
+![](Imagenes/Imagen14.png)
+![](Imagenes/Imagen15.png)
+
 ---
 ## ENTREGA
 >__Crea un repositorio  con nombre PPS-Unidad1Actividad1-Tu nombre que contenga las respuestas a las preguntas y las evidencias de que has realizado las operaciones indicadas.__
