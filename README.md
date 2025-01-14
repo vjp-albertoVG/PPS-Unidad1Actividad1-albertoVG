@@ -48,11 +48,11 @@ sudo docker run -ti --rm \
 
 ~~~
  
-![](Imagenes/Imagen3)
+![](Imagenes/Imagen3.png)
 
-![](Imagenes/Imagen4)
+![](Imagenes/Imagen4.png)
 
-![](Imagenes/Imagen5)
+![](Imagenes/Imagen5.png)
 
 
 > __Explica el comando docker que has utilizado__
@@ -85,13 +85,13 @@ __Las siguientes operaciones las puedes hacer desde el entorno Eclipse que hemos
 >__Instala los plugins y complementos que has encontrado. Además busca e instala los plugins Checkstyle y Sonar Lint.__
 
 Estos son algunas de las extensiones que tengo instaladas en el Visual Studio Code
-![](Imagenes/Imagen6)
-![](Imagenes/Imagen7)
-![](Imagenes/Imagen8)
-![](Imagenes/Imagen9)
-![](Imagenes/Imagen10)
-![](Imagenes/Imagen11)
-![](Imagenes/Imagen12)
+![](Imagenes/Imagen6.png)
+![](Imagenes/Imagen7.png)
+![](Imagenes/Imagen8.png)
+![](Imagenes/Imagen9.png)
+![](Imagenes/Imagen10.png)
+![](Imagenes/Imagen11.png)
+![](Imagenes/Imagen12.png)
 
 
 ## Prueba entornos
